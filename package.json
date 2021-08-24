@@ -1,0 +1,22 @@
+{
+  "name": "bootstrappage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkBaker2005/Bootstrap-webpage.git"
+  },
+  "author": "Mark Baker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkBaker2005/Bootstrap-webpage/issues"
+  },
+  "homepage": "https://MarkBaker2005.github.io/Bootstrap-webpage",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
